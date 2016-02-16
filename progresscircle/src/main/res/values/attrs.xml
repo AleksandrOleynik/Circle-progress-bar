@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircularProgress">
+        <attr name="progress" format="float" />
+        <attr name="maxProgress" format="float" />
+        <attr name="startColor" format="color"/>
+        <attr name="endColor" format="color"/>
+        <attr name="thicknessLine" format="dimension"/>
+        <attr name="startAngle" format="float" />
+        <attr name="showDone" format="boolean" />
+        <attr name="doneColor" format="color" />
+    </declare-styleable>
+</resources>

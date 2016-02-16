@@ -1,0 +1,10 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="default_thickness">4dp</dimen>
+    <integer name="defaultProgress">0</integer>
+    <integer name="defaultMaxProgress">100</integer>
+    <integer name="defaultStartAngle">-90</integer>
+    <integer name="defaultThickness">14</integer>
+</resources>
