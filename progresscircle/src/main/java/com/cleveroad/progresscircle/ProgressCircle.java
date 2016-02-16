@@ -179,9 +179,8 @@ public class ProgressCircle extends View {
                     if(progressAnimator.isRunning() && showDone)
                         startDoneChangeSize();
                     else {
-                        dropValue();
-                        isStartRotation = true;
                         listener.endAnimation();
+                        dropValue();
                     }
                     startAngleRotate.cancel();
                     progressAnimator.cancel();
